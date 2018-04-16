@@ -2,7 +2,7 @@
   "license": "RencontreDeJeunesses",
     "repository": {
       "type": "git",
-      "url": "git://github.com/justinerieder/very_last_test"
+      "url": "git://github.com/justinerieder/very_last_test.git"
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
