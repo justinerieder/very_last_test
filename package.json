@@ -1,8 +1,7 @@
 {
-  "license": "RencontreDeJeunesses",
-    "repository": {
-      "type": "git",
-      "url": "git://github.com/justinerieder/very_last_test.git"
+  "name": "opening-rj-2018",
+  "version": "1.0.0",
+  "private": true,
   "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
