@@ -1,4 +1,5 @@
-var socket = io.connect('http://10.192.250.101:8080');
+//var socket = io.connect('http://10.192.250.101:8080');
+var socket = io();
 
 socket.on('welcome', function(step) {
 
